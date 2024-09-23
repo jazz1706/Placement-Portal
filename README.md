@@ -32,7 +32,6 @@ Website- https://code-placement.000webhostapp.com/index.php
 - HTML
 - CSS
 - Javascript
-- Reat
 - Bootstrap
 - PHP
 - Mysql
